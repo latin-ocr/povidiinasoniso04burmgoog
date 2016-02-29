@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso04burmgoog_0281.png"; bbox 0 0 2812 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 1993 1238 2184">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 1993 1238 2184">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1993 1238 2084; baseline -0.003 -23"><span class='ocrx_word' id='word_1_1' title='bbox 235 1996 281 2061; x_wconf 89' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 295 1996 338 2061; x_wconf 90' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 361 1993 599 2083; x_wconf 87' lang='lat' dir='ltr'><strong>Argumentum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 612 1996 709 2084; x_wconf 78' lang='lat' dir='ltr'>huJus</span> <span class='ocrx_word' id='word_1_5' title='bbox 723 1996 797 2062; x_wconf 82' lang='lat' dir='ltr'>libri</span> <span class='ocrx_word' id='word_1_6' title='bbox 811 1998 917 2082; x_wconf 83' lang='lat' dir='ltr'>quarti</span> <span class='ocrx_word' id='word_1_7' title='bbox 926 1993 1238 2080; x_wconf 84' lang='lat' dir='ltr'><strong>Metamorphoseon</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 194 2095 1082 2184; baseline -0.001 -22"><span class='ocrx_word' id='word_1_8' title='bbox 194 2095 329 2163; x_wconf 85' lang='lat' dir='ltr'><strong>relatum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 342 2098 484 2163; x_wconf 85' lang='lat' dir='ltr'>invenies</span> <span class='ocrx_word' id='word_1_10' title='bbox 498 2099 532 2163; x_wconf 91' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 546 2099 628 2163; x_wconf 82' lang='lat' dir='ltr'>serie</span> <span class='ocrx_word' id='word_1_12' title='bbox 642 2099 811 2178; x_wconf 71' lang='lat' dir='ltr'><strong>Cmmu,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 827 2121 925 2184; x_wconf 81' lang='lat' dir='ltr'><strong>supra</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 939 2121 1012 2184; x_wconf 83' lang='lat' dir='ltr'>pag.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1030 2097 1082 2162; x_wconf 82' lang='lat'><strong>53.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1410 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1410 5010">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1410 5010; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1410 5010; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

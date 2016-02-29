@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso04burmgoog_0003.png"; bbox 0 0 917 1415; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 109 96 238 133">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 109 96 238 133">
+     <span class='ocr_line' id='line_1_1' title="bbox 109 96 238 133; baseline -0.008 -4"><span class='ocrx_word' id='word_1_1' title='bbox 109 113 139 133; x_wconf 60' lang='lat' dir='ltr'><strong>[ox</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 149 96 238 129; x_wconf 32' lang='lat' dir='ltr'><strong>Idu-unffi&gt;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 102 136 246 339">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 102 136 246 339">
+     <span class='ocr_line' id='line_1_2' title="bbox 102 136 246 339; baseline 0 1076"><span class='ocrx_word' id='word_1_3' title='bbox 102 136 246 339; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 106 361 250 399">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 106 361 250 399">
+     <span class='ocr_line' id='line_1_3' title="bbox 106 361 250 377; baseline -0.014 0"><span class='ocrx_word' id='word_1_4' title='bbox 106 362 154 377; x_wconf 65' lang='grc' dir='ltr'><strong>-ΙιίηεΙι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 164 361 250 376; x_wconf 51' lang='lat' dir='ltr'><strong>(mannan.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 106 386 232 399; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 106 386 169 399; x_wconf 65' lang='lat' dir='ltr'><strong>“mun</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 173 386 190 399; x_wconf 70' lang='lat' dir='ltr'><strong>{n</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 195 386 232 398; x_wconf 61' lang='lat'><strong>1⁸7⁸.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
